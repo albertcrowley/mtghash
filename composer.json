@@ -1,6 +1,7 @@
 {
     "require": {
         "jenssegers/imagehash": "^0.4.2",
-        "microweber/screen": "^1.0"
+        "microweber/screen": "^1.0",
+        "claviska/simpleimage": "^3.3"
     }
 }
