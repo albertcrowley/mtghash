@@ -1,0 +1,6 @@
+{
+    "require": {
+        "jenssegers/imagehash": "^0.4.2",
+        "microweber/screen": "^1.0"
+    }
+}
