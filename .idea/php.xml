@@ -7,6 +7,7 @@
       <path value="$PROJECT_DIR$/vendor/microweber/screen" />
       <path value="$PROJECT_DIR$/vendor/claviska/simpleimage" />
       <path value="$PROJECT_DIR$/vendor/league/color-extractor" />
+      <path value="$PROJECT_DIR$/vendor/keboola/csv" />
     </include_path>
   </component>
 </project>

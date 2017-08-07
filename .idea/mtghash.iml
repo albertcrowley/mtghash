@@ -5,6 +5,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/claviska/simpleimage" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/jenssegers/imagehash" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/keboola/csv" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/league/color-extractor" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/microweber/screen" />
     </content>
@@ -16,6 +17,7 @@
           <root url="file://$MODULE_DIR$/vendor/claviska/simpleimage" />
           <root url="file://$MODULE_DIR$/vendor/composer" />
           <root url="file://$MODULE_DIR$/vendor/jenssegers/imagehash" />
+          <root url="file://$MODULE_DIR$/vendor/keboola/csv" />
           <root url="file://$MODULE_DIR$/vendor/league/color-extractor" />
           <root url="file://$MODULE_DIR$/vendor/microweber/screen" />
         </CLASSES>
@@ -23,6 +25,7 @@
           <root url="file://$MODULE_DIR$/vendor/claviska/simpleimage" />
           <root url="file://$MODULE_DIR$/vendor/composer" />
           <root url="file://$MODULE_DIR$/vendor/jenssegers/imagehash" />
+          <root url="file://$MODULE_DIR$/vendor/keboola/csv" />
           <root url="file://$MODULE_DIR$/vendor/league/color-extractor" />
           <root url="file://$MODULE_DIR$/vendor/microweber/screen" />
         </SOURCES>
